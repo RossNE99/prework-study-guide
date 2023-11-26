@@ -12,13 +12,12 @@ it is written in html, css, and javascript
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#Features)
-- [HowToContribute] (#HowToContribute)
+- [HowToContribute](#HowToContribute)
 - [Credits](#credits)
 - [License](#license)
 
 ## Requirements
-git
-VS code
+git and VS code
 
 ## Installation
 To get the develepment envorpment running first clone this repo then open the "prework-study-guid" folder in vsCode then right click on index.html and open it using the default browser
